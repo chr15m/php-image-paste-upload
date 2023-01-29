@@ -1,4 +1,4 @@
-With this script you can copy-paste images to a web page and they will be uploaded into the same folder.
+A PHP page where you can paste images and they get uploaded into the same folder.
 
 Put this PHP script on the server in the folder where you want images to be uploaded.
 
